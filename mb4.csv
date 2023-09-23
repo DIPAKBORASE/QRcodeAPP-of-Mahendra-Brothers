@@ -1,0 +1,7 @@
+cust_code,sup_code,invoice_no,invoice_line_no,invoice_date,po,po_line,item_no,item_name,item_size,sup_item_code,inv_qty,qty_uom,unit_price,total_amount,discount_amount,total_amount_payable,item_net_weight,material_weight,weight_uom,material,material_fineness,material_base_rate,inv_currency,secondary_currency,exchange_rate,due_date
+DILTD,5210210,90020315,1,20220620,3067871,10,8015275,DIW_BG_2.25X1.45_SI-GHI,2.25*1.45,,50,PC,12.6,630,,630,1.5,1.5,ct,,,,USD,,,jun-13-2003
+DILTD,5210210,90020315,2,20220620,3067871,20,8015200,DIW_BG_2.85X1.45_SI-GHI,2.85*1.45,,30,PC,23.4,702,,702,1.2,1.2,ct,,,,USD,,,july-07-2006
+DILTD,5210210,90020315,3,20220620,3067780,10,8064373,DIW_BG_4.0X2.0_SI2-H,4.0*2.0,,282,PC,73.54,20737.5,,20737.5,27.65,27.65,ct,,,,USD,,,aug-08-2002
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
